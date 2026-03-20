@@ -1,15 +1,13 @@
 ---
 name: test-skills
-description: |
-  A minimal test skill collection with two Salesforce skills — Apex code generation
-  and SOQL query building. Used for testing Skills Directory multi-skill submission.
-license: Apache-2.0
-metadata:
-  author: clientell
-  version: "1.0.0"
-  tags: salesforce, apex, soql, test
-allowed-tools: Read,Write,Edit,Bash(sf *),Glob,Grep
-context: fork
+description: A minimal test skill collection with two Salesforce skills — Apex code generation and SOQL query building.
+version: 1.0.0
+author: clientell
+tags:
+  - salesforce
+  - apex
+  - soql
+  - test
 ---
 
 # Test Skills Collection
