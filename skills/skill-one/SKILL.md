@@ -1,15 +1,14 @@
 ---
 name: skill-one
-description: |
+description: >
   Generate Apex classes, triggers, and batch jobs with governor limit awareness,
   bulkification patterns, and CRUD/FLS compliance.
-license: Apache-2.0
-metadata:
-  author: clientell
-  version: "1.0.0"
-  tags: salesforce, apex, code-generation
-allowed-tools: Read,Write,Edit,Bash(sf *),Glob,Grep
-context: fork
+version: 1.0.0
+author: clientell
+tags:
+  - salesforce
+  - apex
+  - code-generation
 ---
 
 # Apex Code Generator

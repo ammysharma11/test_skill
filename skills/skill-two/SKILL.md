@@ -1,15 +1,15 @@
 ---
 name: skill-two
-description: |
+description: >
   Build and optimize SOQL queries including relationship queries, aggregate
   functions, polymorphic TYPEOF, and selective filters.
-license: Apache-2.0
-metadata:
-  author: clientell
-  version: "1.0.0"
-  tags: salesforce, soql, query, optimization
-allowed-tools: Read,Write,Edit,Bash(sf *),Glob,Grep
-context: fork
+version: 1.0.0
+author: clientell
+tags:
+  - salesforce
+  - soql
+  - query
+  - optimization
 ---
 
 # SOQL Query Builder
